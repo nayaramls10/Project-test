@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto 17
+# 📌 Nome do Projeto 17 | Muito legal esse projeto by Edu
 
 Breve descrição do que o projeto faz, seu propósito e principais funcionalidades.
 
